@@ -1,0 +1,7 @@
+liba_star_global_planner<library path="lib/liba_star_global_planner">
+  <class name="a_star_global_planner/AStarGlobalPlanner" type="a_star_global_planner::AStarGlobalPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A implementation of a grid based planner using Dijkstras or A*
+    </description>
+  </class>
+</library>
